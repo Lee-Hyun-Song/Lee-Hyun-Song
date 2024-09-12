@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm learning software in Gachon University.
 <!--
 **Lee-Hyun-Song/Lee-Hyun-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
